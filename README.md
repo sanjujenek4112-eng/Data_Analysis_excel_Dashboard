@@ -6,64 +6,67 @@ This project is an interactive Excel-based Sales Dashboard designed to analyze c
 
 
 ## Question KPI's
-Which month had the highest sales and orders?
+•	Which month had the highest sales and orders?
 
-Who purchased more—men or women?
+•	Who purchased more—men or women?
 
-Which states contributed the most to total sales?
+•	Which states contributed the most to total sales?
 
-What is the relationship between age, gender, and purchase patterns?
+•	What is the relationship between age, gender, and purchase patterns?
 
-Which channel contributed to maximum sales?
+•	Which channel contributed to maximum sales?
 
-What are the most sold product categories?
+•	What are the most sold product categories?
+
 
 ## Dashboard 
 -<a href="https://github.com/sanjujenek4112-eng/Data_Analysis_excel_Dashboard/blob/main/Screenshot%202025-12-05%20143953.png"> Dashboard <a>
 
 ## Objectives
 
-The goal of this dashboard is to:
+•	The goal of this dashboard is to:
 
-Identify sales trends and seasonal patterns
+•	Identify sales trends and seasonal patterns
 
-Understand customer demographics
+•	Understand customer demographics
 
-Compare performance across states and channels
+•	Compare performance across states and channels
 
-Optimize marketing & sales strategy using insights
+•	Optimize marketing & sales strategy using insights
 
-Build a clean, interactive Excel reporting system
+•	Build a clean, interactive Excel reporting system
 
 ## Tools and Skills used
 
-Microsoft Excel
+•	Microsoft Excel
 
-Pivot Tables
+•	Pivot Tables
 
-Pivot Charts
+•	Pivot Charts
 
-Interactive Slicers
+•	Interactive Slicers
 
-Power Query (optional, if used)
+•	Power Query (optional, if used)
 
-Data Cleaning & Preprocessing
+•	Data Cleaning & Preprocessing
 
-Data Visualization
+•	Data Visualization
 
-Business Analysis
+•	Business Analysis
+
 
 ## Outcome
 
 This dashboard provides actionable insights that help understand:
 
-Customer behavior
+•	Customer behavior
 
-Sales performance
+•	Sales performance
 
-Channel contribution
+•	Channel contribution
 
-Geographic trends
+•	Geographic trends
+
 
 
 ## DASHBOARD IMAGE 
@@ -71,40 +74,41 @@ Geographic trends
 
 ## Project Insights 
 
-📌 1. Sales Trends
+ 1. Sales Trends
 
 The month with the highest sales and maximum orders was identified through monthly trend analysis.
 
 Seasonal patterns showed fluctuations, helping understand peak shopping periods.
 
-📌 2. Customer Demographics
+ 2. Customer Demographics
 
 Women (or men—depending on your actual data) were found to purchase more in 2022.
 
 The 25–34 age group contributed the most to total sales, showing strong buying behavior.
 
-📌 3. Order Status Insights
+ 3. Order Status Insights
 
 Delivered orders made up the majority, while returned/cancelled orders highlighted areas for improvement in operations and quality control.
 
-📌 4. State-wise Contribution
+ 4. State-wise Contribution
 
 The top 10 states contributed to more than X% of total sales (replace X with your actual percentage if you calculate it).
 
 These insights help companies target their strongest regions for marketing campaigns.
 
-📌 5. Channel Performance
+ 5. Channel Performance
 
 Amazon / Flipkart / Myntra (whichever applies) contributed the highest share of sales.
 
 Helps businesses understand where customers prefer shopping from.
 
-📌 6. Product Category Performance
+ 6. Product Category Performance
 
 The highest-selling category (e.g., Clothing, Electronics, Accessories) was identified.
 
 Useful for inventory planning and demand forecasting.
 
-📌 7. Age–Gender Relationship
+ 7. Age–Gender Relationship
 
 Younger customers (18–35) showed higher order counts.
+
