@@ -18,10 +18,10 @@ Which channel contributed to maximum sales?
 
 What are the most sold product categories?
 
-##Dashboard 
+## Dashboard 
 -<a href="https://github.com/sanjujenek4112-eng/Data_Analysis_excel_Dashboard/blob/main/Screenshot%202025-12-05%20143953.png"> Dashboard <a>
 
-##Objectives
+## Objectives
 
 The goal of this dashboard is to:
 
@@ -35,7 +35,7 @@ Optimize marketing & sales strategy using insights
 
 Build a clean, interactive Excel reporting system
 
-##Tools and Skills used
+## Tools and Skills used
 
 Microsoft Excel
 
@@ -53,7 +53,7 @@ Data Visualization
 
 Business Analysis
 
-##Outcome
+## Outcome
 
 This dashboard provides actionable insights that help understand:
 
@@ -69,7 +69,7 @@ Geographic trends
 ## DASHBOARD IMAGE 
 <img width="1907" height="737" alt="Screenshot 2025-12-05 143953" src="https://github.com/user-attachments/assets/0209b892-fa97-4bda-86c0-a81f6e79123b" />
 
-##Project Insights 
+## Project Insights 
 
 📌 1. Sales Trends
 
